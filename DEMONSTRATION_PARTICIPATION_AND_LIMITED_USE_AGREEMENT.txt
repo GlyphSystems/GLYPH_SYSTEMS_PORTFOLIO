@@ -1,0 +1,168 @@
+DEMONSTRATION PARTICIPATION & LIMITED USE AGREEMENT
+
+Purpose
+
+This agreement outlines the terms and expectations for participation in live technical demonstrations involving the Geometric / Spiral Logic computational framework and associated systems.
+
+The purpose of these demonstrations is to allow approved observers, developers, researchers, or potential partners to evaluate live system behavior, telemetry, processing flow, and structured workloads in a controlled environment.
+
+Participation in demonstrations constitutes acknowledgment and acceptance of the terms outlined below.
+
+---
+
+Scope of Demonstrations
+
+Demonstrations may include:
+
+- Live workload execution
+- Runtime telemetry observation
+- Processing comparisons
+- Stability testing
+- Controlled benchmark scenarios
+- AI-related workflows
+- Structured data processing
+- Parallel execution observation
+- Geometric execution visualization
+- Observer-provided test workloads (subject to approval)
+
+Demonstrations are intended for:
+
+- Evaluation
+- Observation
+- Technical discussion
+- Research
+- Partnership consideration
+- Educational review
+
+Demonstrations are NOT intended as production deployment environments.
+
+---
+
+Observer Rights
+
+Approved observers may be permitted to:
+
+- Observe demonstrations live
+- Record sessions
+- Capture screenshots
+- Review exported logs or summaries
+- Submit approved workloads for testing
+
+Recording permissions apply only to the live session itself and do not transfer ownership or licensing rights to proprietary systems or frameworks.
+
+---
+
+Proprietary System Protection
+
+The following remain proprietary and protected:
+
+- Internal system architecture
+- Framework structure
+- Execution methodology
+- Protected implementation details
+- Infrastructure configuration
+- Internal tooling
+- Proprietary computational methods
+- Trade-secret operational processes
+
+Participation in demonstrations does NOT grant:
+
+- Ownership rights
+- Replication rights
+- Redistribution rights
+- Reverse-engineering rights
+- Commercial licensing rights
+- Source-code access rights
+
+No observer may claim ownership of the demonstrated framework or associated systems.
+
+---
+
+Reverse Engineering & Unauthorized Use
+
+Observers agree not to:
+
+- Attempt unauthorized replication
+- Reverse engineer protected components
+- Misrepresent the demonstrated systems
+- Redistribute protected materials as their own
+- Use demonstrations to create unauthorized derivative systems
+- Misuse exported telemetry or session materials
+
+Any commercial licensing, integration, or deployment discussions must occur through separate written agreements.
+
+---
+
+Demonstration Outputs & Session Materials
+
+Logs, telemetry, exported session summaries, screenshots, and runtime observations are provided for evaluation and discussion purposes only unless otherwise agreed in writing.
+
+Demonstration outputs do not constitute:
+
+- Guarantees of production performance
+- Guaranteed business outcomes
+- Warranty of fitness for a specific purpose
+- Legal certification
+- Security certification
+- Regulatory approval
+
+Observers assume responsibility for how they interpret or apply demonstration results.
+
+---
+
+Safety & Legal Restrictions
+
+Demonstrations may not be used for:
+
+- Illegal activity
+- Unauthorized intrusion testing
+- Malware deployment
+- Financial fraud
+- Offensive cyber operations
+- Real-world attacks or disruption
+- Harmful automation
+- Unauthorized surveillance
+- Market manipulation
+- Illegal data collection
+
+The system operator reserves the right to reject any workload, request, or demonstration scenario for safety, compatibility, ethical, or legal reasons.
+
+---
+
+Limitation of Liability
+
+Demonstrations are provided on an observational and evaluation basis.
+
+The system operator shall not be held liable for:
+
+- Business losses
+- Financial losses
+- Operational losses
+- Misuse of outputs
+- Misinterpretation of results
+- Third-party implementation decisions
+- Observer-provided workload behavior
+
+Observers participate voluntarily and assume responsibility for their own evaluation decisions.
+
+---
+
+Session Approval & Participation
+
+All demonstrations are subject to:
+
+- Scheduling approval
+- Scope review
+- Compatibility review
+- Legal compliance
+- Safety review
+
+The system operator reserves the right to terminate or deny demonstrations at any time.
+
+---
+
+Closing Statement
+
+The purpose of the live demonstration process is to provide direct technical observation through measurable execution, runtime telemetry, and structured system behavior under controlled conditions.
+
+The system is intended to be evaluated operationally through live observation rather than abstract description alone.

@@ -1,0 +1,248 @@
+THE NETWORK
+
+Distributed Infrastructure & Geometric Relay Architecture
+
+The Network is the operational infrastructure layer built around the Logic Engine and the Glyph Encryption Engine (GEE).
+
+Its purpose is to allow the engine to function across physically separated systems while maintaining synchronized state behavior, secure relay handling, and stable transmission integrity between nodes.
+
+The current architecture operates as a distributed multi-node mesh built across multiple geographic regions within the United States.
+
+The network was designed to test whether a geometric-state-based computational structure could maintain stable synchronization and coherent transmission behavior across long-distance routing environments using lightweight infrastructure and custom relay logic.
+
+---
+
+Core Network Structure
+
+The current operational network is built around three primary nodes:
+
+- Node 1 — Seattle, Washington
+  Initiation / Transmission Node
+
+- Node 2 — New Jersey
+  Transformation / Relay Node
+
+- Node 3 — Los Angeles, California
+  Resolution / Output Node
+
+Each node contains the same foundational engine architecture while performing different operational responsibilities inside the relay structure.
+
+The system was intentionally designed as a distributed mesh rather than a centralized server environment.
+
+This allows:
+
+- relay processing,
+- distributed transformation,
+- redundancy,
+- and synchronized state movement between independent systems.
+
+The network does not rely on a single server to complete the transmission cycle.
+
+Instead, each node participates in the transformation and relay process before forwarding the state to the next destination.
+
+---
+
+Node Roles
+
+Node 1 — Initiation Layer
+
+The Seattle node acts as the transmission and initiation point of the network.
+
+Its responsibilities include:
+
+- generating the initial payload,
+- processing the payload through the engine,
+- calculating the initial geometric state,
+- and transmitting the resulting packet into the relay structure.
+
+This node functions as the pulse origin of the network.
+
+---
+
+Node 2 — Transformation Layer
+
+The New Jersey node acts as the relay and transformation layer.
+
+This node receives the incoming state from Seattle, processes the transmission through its own local engine structure, generates a transformed relay state, and forwards the new packet to Los Angeles.
+
+The relay node is critical because it proves the network is not simply forwarding static data.
+
+The node actively participates in the transformation process while maintaining synchronization across the mesh.
+
+This creates a distributed processing pathway instead of a simple pass-through route.
+
+---
+
+Node 3 — Resolution Layer
+
+The Los Angeles node acts as the resolution and verification layer.
+
+Its responsibilities include:
+
+- receiving the transformed relay state,
+- processing the final transition,
+- reconstructing the resulting output,
+- measuring coherence,
+- and displaying live telemetry data through the Resolution Dashboard.
+
+The dashboard environment was designed to visually display:
+
+- synchronization status,
+- payload metrics,
+- routing behavior,
+- transmission activity,
+- and network coherence in real time.
+
+This allows live monitoring of the network during active relay conditions.
+
+---
+
+Geometric Relay Architecture
+
+Traditional networking systems primarily focus on transporting static packets between endpoints.
+
+The GEE Network introduces an additional interpretation layer built around geometric state transformation.
+
+Instead of treating information only as isolated static values, the network evaluates the relationship between transitions occurring between states during transmission.
+
+The network structure allows:
+
+- paired state movement,
+- relay transformation,
+- distributed reconstruction,
+- and synchronized interpretation across nodes.
+
+The transport layer itself remains compatible with standard infrastructure.
+
+The geometric layer exists above the transport layer rather than replacing it.
+
+This means:
+
+- binary compatibility is preserved,
+- standard Linux infrastructure remains usable,
+- and conventional networking hardware can still support the system.
+
+The objective is not to replace existing internet infrastructure, but to introduce a new computational interpretation and relay layer above traditional transport systems.
+
+---
+
+Synchronization & Temporal Alignment
+
+One of the core requirements of the network is synchronization.
+
+To maintain stable relay behavior across geographically separated systems, all nodes are locked to the same timing structure through Network Time Protocol (NTP) synchronization.
+
+This ensures:
+
+- aligned pulse timing,
+- consistent relay sequencing,
+- stable packet ordering,
+- and minimized temporal drift between regions.
+
+The synchronization layer allows the network to maintain stable relay behavior even while transmitting continuously across long-distance infrastructure.
+
+---
+
+Security & Isolation
+
+The network was intentionally designed as a closed operational environment.
+
+Each node is cryptographically identified using unique Ed25519 SSH identities.
+
+Firewall isolation rules restrict communication so nodes only accept authorized traffic from approved systems inside the mesh.
+
+The infrastructure uses:
+
+- default-deny firewall architecture,
+- restricted relay permissions,
+- isolated routing behavior,
+- and controlled UDP transport paths.
+
+This creates a private relay chamber isolated from standard public traffic.
+
+The purpose of this architecture is not only security, but also operational integrity and synchronization stability.
+
+---
+
+Node 4 — Audit Gateway Architecture
+
+In addition to the three operational relay nodes, the network includes a separate public-facing system known as Node 4.
+
+Node 4 is not part of the internal relay chamber itself.
+
+It acts as:
+
+- the audit gateway,
+- the verification interface,
+- and the external interaction layer.
+
+The purpose of Node 4 is to allow outside auditors, enterprise reviewers, or testing environments to interact with the network without exposing:
+
+- private routing infrastructure,
+- internal node locations,
+- proprietary engine architecture,
+- or direct access to the core mesh.
+
+This structure is referred to internally as a:
+Blind Drop / Zero-Knowledge Gateway Architecture.
+
+---
+
+How Node 4 Works
+
+Node 4 operates as an isolated buffer layer between the public internet and the private network.
+
+External requests are submitted into controlled drop-zone environments.
+
+The internal network then:
+
+- retrieves the request,
+- processes the payload through the relay mesh,
+- generates the resulting output,
+- and returns the result back through the gateway.
+
+The external user never directly touches the internal nodes.
+
+This separation allows:
+
+- black-box verification,
+- controlled audit environments,
+- isolated testing,
+- and secure external interaction
+  without exposing the underlying infrastructure.
+
+---
+
+Infrastructure Characteristics
+
+The network was engineered around several operational principles:
+
+- distributed relay processing,
+- synchronized node behavior,
+- geometric-state routing,
+- secure isolated transport,
+- live telemetry visibility,
+- and lightweight infrastructure deployment.
+
+Current demonstrations have shown:
+
+- stable multi-node synchronization,
+- continuous cross-country relay behavior,
+- low-latency state transmission,
+- live transformation routing,
+- and sustained coherence retention during operation.
+
+The network is not presented as a theoretical model.
+
+It is a functioning distributed infrastructure environment built to demonstrate:
+
+- geometric-state relay architecture,
+- secure node interaction,
+- distributed transformation,
+- and synchronized computational transport across physical regions.
+
+At the highest level:
+
+- The Engine processes and secures the logic.
+- The Network moves, synchronizes, and distributes the system across space.
+- Node 4 allows external verification without exposing the private mesh itself.

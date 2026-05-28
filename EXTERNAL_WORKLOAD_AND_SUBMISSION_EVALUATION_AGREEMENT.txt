@@ -1,0 +1,188 @@
+EXTERNAL WORKLOAD & SUBMISSION EVALUATION AGREEMENT
+
+Purpose
+
+This agreement outlines the terms governing the temporary submission, evaluation, and controlled processing of external workloads, scripts, datasets, models, benchmarks, or related technical materials during live demonstrations involving the Geometric / Spiral Logic computational framework and associated systems.
+
+The purpose of this process is to allow approved participants to observe how selected materials behave within a controlled demonstration environment.
+
+This agreement is intended to clarify ownership, usage boundaries, evaluation scope, and legal responsibilities for both parties.
+
+---
+
+Ownership of Submitted Materials
+
+All externally submitted materials remain the property of the submitting party.
+
+This includes, but is not limited to:
+
+- Source code
+- Scripts
+- Datasets
+- Benchmarks
+- AI models
+- Processing workflows
+- Structured files
+- Technical documents
+- Configuration files
+- Related intellectual property
+
+Submission of materials for demonstration or evaluation purposes does NOT transfer:
+
+- Ownership rights
+- Licensing rights
+- Commercial rights
+- Distribution rights
+- Replication rights
+- Patent rights
+- Authorship claims
+
+The system operator makes no ownership claim over externally submitted materials.
+
+---
+
+Limited Evaluation Scope
+
+Submitted materials may be temporarily:
+
+- Processed
+- Executed
+- Evaluated
+- Observed
+- Compared
+- Routed through controlled demonstrations
+- Included in runtime telemetry observation
+
+Such usage is limited strictly to:
+
+- Demonstration purposes
+- Technical observation
+- Evaluation sessions
+- Research discussion
+- Partnership review
+- Structured testing scenarios
+
+No submitted material shall be commercialized, redistributed, or intentionally disclosed outside the agreed demonstration scope unless separately authorized in writing by the submitting party.
+
+---
+
+Submitter Responsibilities
+
+The submitting party represents and warrants that they:
+
+- Have the legal right to submit the materials
+- Possess authority to authorize testing or evaluation
+- Are not knowingly submitting illegal, stolen, or unauthorized material
+- Understand the demonstration environment is observational and evaluative in nature
+
+The submitting party agrees not to provide:
+
+- Malware
+- Ransomware
+- Unauthorized intrusion tools
+- Illegal payloads
+- Harmful automation
+- Unauthorized surveillance tools
+- Financial exploitation systems
+- Real-world attack frameworks
+- Illegal datasets or unlawfully obtained data
+
+The system operator reserves the right to reject any submission at their sole discretion.
+
+---
+
+No Certification or Warranty
+
+Evaluation or demonstration of submitted materials does NOT constitute:
+
+- Security certification
+- Production certification
+- Regulatory approval
+- Warranty of performance
+- Warranty of compatibility
+- Legal approval
+- Financial endorsement
+- Operational guarantee
+
+Demonstration results are observational and informational only.
+
+The submitting party remains solely responsible for:
+
+- Production deployment decisions
+- Security implementation
+- Regulatory compliance
+- Business usage
+- Commercial deployment
+- Third-party integration decisions
+
+---
+
+Confidentiality & Handling
+
+Submitted materials may be temporarily retained for:
+
+- Session preparation
+- Technical evaluation
+- Runtime observation
+- Result generation
+- Demonstration continuity
+
+Reasonable efforts may be made to avoid unnecessary disclosure of submitted materials during demonstrations.
+
+Upon written request, submitted materials may be deleted following completion of the agreed evaluation process unless retention is legally required or separately authorized.
+
+---
+
+Limitation of Liability
+
+The system operator shall not be held liable for:
+
+- Business losses
+- Financial losses
+- Operational interruptions
+- Commercial outcomes
+- Misinterpretation of results
+- Third-party deployment decisions
+- Security assumptions made by the submitting party
+- Behavior of externally submitted workloads
+
+Participation in demonstrations and submission of materials occurs voluntarily and at the submitting party’s discretion.
+
+---
+
+Demonstration Boundaries
+
+Participation in workload demonstrations does NOT establish:
+
+- A partnership
+- Joint ownership
+- Commercial licensing
+- Investment agreement
+- Employment relationship
+- Automatic exclusivity
+- Technology transfer rights
+
+Any commercial agreements, integrations, licensing arrangements, or deployment rights must be negotiated separately in writing.
+
+---
+
+Session Approval & Review
+
+All submissions remain subject to:
+
+- Compatibility review
+- Scope review
+- Safety review
+- Legal review
+- Demonstration feasibility
+- Resource availability
+
+The system operator reserves the right to deny, pause, or terminate demonstrations involving external workloads at any time.
+
+---
+
+Closing Statement
+
+The purpose of external workload demonstrations is to allow structured technical observation under controlled conditions while respecting the ownership, boundaries, and legal responsibilities of all participating parties.
+
+All demonstrations are intended to support transparent technical evaluation without transferring ownership or proprietary rights between parties.
