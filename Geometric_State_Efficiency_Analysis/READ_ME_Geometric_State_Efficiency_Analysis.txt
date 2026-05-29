@@ -3,7 +3,7 @@ SYSTEM ARCHITECTURE DEMONSTRATION DIAGNOSTIC LOG: SEQUENTIAL VS GEOMETRIC
 ======================================================================
 
 [ PROTOCOL OVERVIEW ]
-This assessment log records the real-time side-by-side performance comparison between Legacy Sequential Processing and the Proprietary Geometric Glyph System (GGS) Core architecture during a 100-node high-density operational stress test.
+This assessment log records the real-time side-by-side performance comparison between Legacy Sequential Processing and the Proprietary logic engine) Core architecture during a 100-node high-density operational stress test.
 
 ----------------------------------------------------------------------
 SECTION 1: ARCHITECTURAL THEORY BRIEF
